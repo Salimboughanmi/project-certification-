@@ -1,0 +1,26 @@
+//certif
+{
+    "partenaire" : "Amazon",
+    "nom" : "cloud"
+}
+
+//etudiant
+{
+    "nom" : "",
+    "prenom" : "",
+    "num_carte_etud" : "",
+    "class" : "",
+    "password" : ""
+}
+
+//signin
+{
+    "nom" : "admin",
+    "password" : "admin"
+}
+
+//whiteTest
+{
+    "participant" : "id_etudiant",
+    "certif" : "id_certifs",
+}

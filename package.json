@@ -1,0 +1,22 @@
+{
+  "name": "dsnode",
+  "version": "1.0.0",
+  "description": "dsNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "joi-objectid": "^4.0.2",
+    "mongoose": "^6.2.6",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
